@@ -1,0 +1,3 @@
+language = "bash"
+run = "bash main.sh"
+# run = "(python3.10 --version || install-pkg python3.10) && clear && python3.10 main.py"
