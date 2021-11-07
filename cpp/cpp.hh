@@ -1,1 +1,1 @@
-welcome();
+void wel();

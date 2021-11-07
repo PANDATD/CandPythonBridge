@@ -5,6 +5,9 @@ cd ..
 cd go 
 go build -buildmode=c-shared -o hello.so
 cd ..
+#cd cpp
+#g++ -0  cpp.so --shared -fPIC cpp.cpp
+#cd ..
 echo "shared file connection established..."
 cd python
 python3 config.py 

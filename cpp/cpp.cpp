@@ -1,7 +1,7 @@
-#include<iostream.h>
-#include "cpp"
+#include<iostream>
+#include "cpp.hh"
 using namespace std;
 
-void welcome(){
+void wel(){
     cout<<"Hello From CPP to PYthon \n";
 }
